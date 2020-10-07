@@ -1,5 +1,8 @@
-module.exports = function repeater(/* str, options */) {
-    throw 'Not implemented';
-    // remove line with error and write your code here
+module.exports = function repeater(/*str, options*/) {
+  /*let result = ''
+  for (let i = 0; i < options.additionRepeatTimes; i++) {
+    result += `${str}${options.addition}${options.additionSeparator}${options.separator}`
+  }
+console.log(result)
+  return result;*/
 };
-  
